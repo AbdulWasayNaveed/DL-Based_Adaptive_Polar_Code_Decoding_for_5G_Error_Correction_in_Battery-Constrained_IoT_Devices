@@ -1,4 +1,4 @@
-# FNN-Based Adaptive Polar Code Decoding for 5G in Battery-Constrained IoT Devices
+# DL-Based Adaptive Polar Code Decoding for 5G in Battery-Constrained IoT Devices
 
 ## Overview
 
