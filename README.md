@@ -4,7 +4,7 @@
 
 This project implements an intelligent error correction system using **Polar Codes** for 5G communication systems in **battery-constrained embedded devices**. It integrates **machine learning (ML)**, specifically a **Feedforward Neural Network (FNN)**, to adaptively select the optimal decoding algorithm in real-time based on channel conditions, aiming to balance **error performance** and **power efficiency**.
 
-The system is simulated in Python using a realistic wireless channel model (Rayleigh fading + AWGN), and supports deployment on embedded hardware like **ESP32 + LoRa SX1278** for low-power, long-range IoT applications.
+The system is simulated in Python using a realistic wireless channel model (Rayleigh fading + AWGN), and uses **Successive cancelation, Successive cancelation list & List viterbi decoders**.
 
 ## Key Features
 
